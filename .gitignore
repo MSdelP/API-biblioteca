@@ -1,0 +1,15 @@
+# Ignorar JDK y módulos pesados
+Oracle_JDK-24/
+**/lib/modules
+
+# Archivos de compilación y dependencias
+/target/
+*.class
+
+# Configuraciones de IDE
+.vscode/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
